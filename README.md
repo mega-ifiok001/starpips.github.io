@@ -1,0 +1,2 @@
+# starpips.github.io
+qrcode
